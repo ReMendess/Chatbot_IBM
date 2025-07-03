@@ -45,6 +45,17 @@ Utilizando o fluxo, e o processo clássico, criei o Chatbot Nan para testes, sim
 <p align="center">
 <img src = "assets/ibm_cloud5.png">
   </p>
-
+<p align="center">
+<img src = "assets/ibm_cloud6.png">
+  </p>
 
 ## <a name="c3"></a>3 New Experience / WatsonX Assistant
+
+Utilizando as novas funcionalidades criei outro Chatbot Nan para testes.
+
+<p align="center">
+<img src = "assets/ibm_cloud7.png">
+  </p>
+
+
+
