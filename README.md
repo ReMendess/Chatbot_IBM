@@ -57,5 +57,25 @@ Utilizando as novas funcionalidades criei outro Chatbot Nan para testes.
 <img src = "assets/ibm_cloud7.png">
   </p>
 
+Utilizei os recursos da IBM para criar APIs, Projetos e um modelo de IA generativa, permitindo que meu chatbot pudesse gerar respostas generativas de sugestões.
+
+<p align="center">
+<img src = "assets/ibm_cloud8.png">
+  </p>
+
+<p align="center">
+<img src = "assets/ibm_cloud9.png">
+  </p>
+
+<p align="center">
+<img src = "assets/ibm_cloud10.png">
+  </p>
+
+<p align="center">
+<img src = "assets/ibm_cloud11.png">
+  </p>
 
 
+<p align="center">
+<img src = "assets/ibm_cloud14.png">
+  </p>
